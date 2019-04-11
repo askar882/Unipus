@@ -6,6 +6,8 @@
 // @description  Automatically adds a view containing answers to the questions.
 // @description:zh-CN   在练习页面添加一个包含答案的悬浮窗，适用于西北工业大学视听说平台。
 // @author       askar882
+// @license      MIT
+// @updateURL    https://raw.githubusercontent.com/askar882/Unipus/master/Unipus%20Answer%20Viewer.user.js
 // @match        *://10.81.0.88/book/book182/app_index.php?unit=*
 // @run-at       url_change
 // @grant        none
