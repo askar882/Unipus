@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         Unipus Answer Viewer
+// @name:zh-CN   Unipus视听说答案显示
 // @namespace    askar882
 // @version      0.1
 // @description  Automatically adds a view containing answers to the questions.
+// @description:zh-CN   在练习页面添加一个包含答案的悬浮窗，适用于西北工业大学视听说平台。
 // @author       askar882
 // @match        *://10.81.0.88/book/book182/app_index.php?unit=*
 // @run-at       url_change
