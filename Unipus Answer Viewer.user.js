@@ -8,6 +8,7 @@
 // @author       askar882
 // @license      MIT
 // @updateURL    https://raw.githubusercontent.com/askar882/Unipus/master/Unipus%20Answer%20Viewer.user.js
+// @compatible   Chrome
 // @match        *://10.81.0.88/book/book182/app_index.php?unit=*
 // @run-at       url_change
 // @grant        none
